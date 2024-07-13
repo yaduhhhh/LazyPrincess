@@ -1,5 +1,5 @@
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
+# with Love KIDUNGAMANI 💘
+# Join Channels for free Videos...
 
 import io
 from pyrogram import filters, Client, enums
